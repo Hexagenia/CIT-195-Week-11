@@ -19,26 +19,4 @@ html {
 
 body {
   margin-bottom: 60px;
-  color:lightpink;
-}
-
-h1{
-    color:lightpink;
-    text-shadow:1px 1px black;
-}
-h2{
-    color:darkblue;
-    text-shadow: 1px 1px black;
-}
-
-img{
-    border-radius:25px;
-}
-
-a{
-    color:darkgreen;
-}
-
-a:hover{
-    color:aqua;
 }
